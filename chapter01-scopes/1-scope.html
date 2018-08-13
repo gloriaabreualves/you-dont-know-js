@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+ <script>
+ 
+ function foo(a) {
+b = a;
+console.log( a + b );
+
+}
+foo( 2 );
+
+/* Erro pq tava fora do escopo a variável b (ainda não tinha sido atribuida nd a ela):
+function foo(a) {
+console.log( a + b );
+b = a;
+}
+foo( 2 );*/
+
+ </script> 
+
+</body>
+</html>
