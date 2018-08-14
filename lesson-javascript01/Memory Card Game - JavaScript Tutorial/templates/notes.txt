@@ -1,0 +1,9 @@
+Youtube  26 min
+https://www.youtube.com/watch?v=ZniVgo8U7ek
+
+GitHub
+
+https://github.com/code-sketch/memory-game/tree/master/video-1
+
+
+Learn the fundamentals of pure javascript by building a memory card game. No frameworks or libraries, just vanilla JavaScript.
