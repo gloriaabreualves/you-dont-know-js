@@ -16,7 +16,7 @@ Passed-Nest an Anchor Element within a Paragraph
 Passed-Make Dead Links Using the Hash Symbol
 Passed-Turn an Image into a Link
 Passed-Create a Bulleted Unordered List
-Doing-Create an Ordered List
+Passed-Create an Ordered List
 Not Passed-Create a Text Field
 Not Passed-Add Placeholder Text to a Text Field
 Not Passed-Create a Form Element
