@@ -1,7 +1,5 @@
-Responsive Web Design Certification (300 hours)
 Introduction to Basic HTML and HTML5: Done
-
-Say Hello to HTML Elements
+Passed-Say Hello to HTML Elements
 Passed-Headline with the h2 Element
 Passed-Inform with the Paragraph Element
 Passed-Fill in the Blank with Placeholder Text
@@ -17,14 +15,14 @@ Passed-Make Dead Links Using the Hash Symbol
 Passed-Turn an Image into a Link
 Passed-Create a Bulleted Unordered List
 Passed-Create an Ordered List
-Not Passed-Create a Text Field
-Not Passed-Add Placeholder Text to a Text Field
-Not Passed-Create a Form Element
-Not Passed-Add a Submit Button to a Form
-Not Passed-Use HTML5 to Require a Field
-Not Passed-Create a Set of Radio Buttons
-Not Passed-Create a Set of Checkboxes
-Not Passed-Check Radio Buttons and Checkboxes by Default
-Not Passed-Nest Many Elements within a Single div Element
-Not Passed-Declare the Doctype of an HTML Document
-Not Passed-Define the Head and Body of an HTML Document
+Passed-Create a Text Field
+Passed-Add Placeholder Text to a Text Field
+Passed-Create a Form Element
+Passed-Add a Submit Button to a Form
+Passed-Use HTML5 to Require a Field
+Passed-Create a Set of Radio Buttons
+Passed-Create a Set of Checkboxes
+Passed-Check Radio Buttons and Checkboxes by Default
+Passed-Nest Many Elements within a Single div Element
+Passed-Declare the Doctype of an HTML Document
+Passed-Define the Head and Body of an HTML Document

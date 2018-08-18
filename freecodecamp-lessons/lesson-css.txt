@@ -1,0 +1,46 @@
+Basic CSS
+
+    Introduction to Basic CSS
+    PassedChange the Color of Text
+    Not PassedUse CSS Selectors to Style Elements
+    Not PassedUse a CSS Class to Style an Element
+    Not PassedStyle Multiple Elements with a CSS Class
+    Not PassedChange the Font Size of an Element
+    Not PassedSet the Font Family of an Element
+    Not PassedImport a Google Font
+    Not PassedSpecify How Fonts Should Degrade
+    Not PassedSize Your Images
+    Not PassedAdd Borders Around Your Elements
+    Not PassedAdd Rounded Corners with border-radius
+    Not PassedMake Circular Images with a border-radius
+    Not PassedGive a Background Color to a div Element
+    Not PassedSet the id of an Element
+    Not PassedUse an id Attribute to Style an Element
+    Not PassedAdjust the Padding of an Element
+    Not PassedAdjust the Margin of an Element
+    Not PassedAdd a Negative Margin to an Element
+    Not PassedAdd Different Padding to Each Side of an Element
+    Not PassedAdd Different Margins to Each Side of an Element
+    Not PassedUse Clockwise Notation to Specify the Padding of an Element
+    Not PassedUse Clockwise Notation to Specify the Margin of an Element
+    Not PassedUse Attribute Selectors to Style Elements
+    Not PassedUnderstand Absolute versus Relative Units
+    Not PassedStyle the HTML Body Element
+    Not PassedInherit Styles from the Body Element
+    Not PassedPrioritize One Style Over Another
+    Not PassedOverride Styles in Subsequent CSS
+    Not PassedOverride Class Declarations by Styling ID Attributes
+    Not PassedOverride Class Declarations with Inline Styles
+    Not PassedOverride All Other Styles by using Important
+    Not PassedUse Hex Code for Specific Colors
+    Not PassedUse Hex Code to Mix Colors
+    Not PassedUse Abbreviated Hex Code
+    Not PassedUse RGB values to Color Elements
+    Not PassedUse RGB to Mix Colors
+    Not PassedUse CSS Variables to change several elements at once
+    Not PassedCreate a custom CSS Variable
+    Not PassedUse a custom CSS Variable
+    Not PassedAttach a Fallback value to a CSS Variable
+    Not PassedCascading CSS variables
+    Not PassedChange a variable for a specific area
+    Not PassedUse a media query to change a variable
