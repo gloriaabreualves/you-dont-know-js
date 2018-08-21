@@ -1,0 +1,54 @@
+Applied Visual Design
+Introduction to the Applied Visual Design Challenges
+Passed-Create Visual Balance Using the text-align Property
+Passed-Adjust the Width of an Element Using the width Property
+Not Passed-Adjust the Height of an Element Using the height Property
+Passed-Use the strong Tag to Make Text Bold
+Not Passed-Use the u Tag to Underline Text
+Not Passed-Use the em Tag to Italicize Text
+Not Passed-Use the s Tag to Strikethrough Text
+Not Passed-Create a Horizontal Line Using the hr Element
+Not Passed-Adjust the background-color Property of Text
+Not Passed-Adjust the Size of a Header Versus a Paragraph Tag
+Not Passed-Add a box-shadow to a Card-like Element
+Not Passed-Decrease the Opacity of an Element
+Not Passed-Use the text-transform Property to Make Text Uppercase
+Not Passed-Set the font-size for Multiple Heading Elements
+Not Passed-Set the font-weight for Multiple Heading Elements
+Not Passed-Set the font-size of Paragraph Text
+Not Passed-Set the line-height of Paragraphs
+Not Passed-Adjust the Hover State of an Anchor Tag
+Not Passed-Change an Element's Relative Position
+Not Passed-Move a Relatively Positioned Element with CSS Offsets
+Not Passed-Lock an Element to its Parent with Absolute Positioning
+Not Passed--Lock an Element to the Browser Window with Fixed Positioning
+Not Passed--Push Elements Left or Right with the float Property
+Not Passed-Change the Position of Overlapping Elements with the z-index Property
+Not Passed-Center an Element Horizontally Using the margin Property
+Not Passed-Learn about Complementary Colors
+Not Passed-Learn about Tertiary Colors
+Not Passed-Adjust the Color of Various Elements to Complementary Colors
+Not Passed-Adjust the Hue of a Color
+Not Passed-Adjust the Tone of a Color
+Not Passed-Create a Gradual CSS Linear Gradient
+Not Passed-Use a CSS Linear Gradient to Create a Striped Element
+Not Passed-Create Texture by Adding a Subtle Pattern as a Background Image
+Not Passed-Use the CSS Transform scale Property to Change the Size of an Element
+Not Passed-Use the CSS Transform scale Property to Scale an Element on Hover
+Not Passed-Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
+Not Passed-Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+Not Passed-Create a Graphic Using CSS
+Not Passed-Create a More Complex Shape Using CSS and HTML
+Not Passed-Learn How the CSS @keyframes and animation Properties Work
+Not Passed-Use CSS Animation to Change the Hover State of a Button
+Not Passed-Modify Fill Mode of an Animation
+Not Passed-Create Movement Using CSS Animation
+Not Passed-Create Visual Direction by Fading an Element from Left to Right
+Not Passed-Animate Elements Continually Using an Infinite Animation Count
+Not Passed-Make a CSS Heartbeat using an Infinite Animation Count
+Not Passed-Animate Elements at Variable Rates
+Not Passed-Animate Multiple Elements at Variable Rates
+Not Passed-Change Animation Timing with Keywords
+Not Passed-Learn How Bezier Curves Work
+Not Passed-Use a Bezier Curve to Move a Graphic
+Not Passed-Make Motion More Natural Using a Bezier Curve
