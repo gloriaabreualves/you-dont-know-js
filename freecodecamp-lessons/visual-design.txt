@@ -18,17 +18,17 @@ PassedSet the font-weight for Multiple Heading Elements
 PassedSet the font-size of Paragraph Text
 PassedSet the line-height of Paragraphs
 PassedAdjust the Hover State of an Anchor Tag
-Not PassedChange an Element's Relative Position
-Not PassedMove a Relatively Positioned Element with CSS Offsets
-Not PassedLock an Element to its Parent with Absolute Positioning
-Not PassedLock an Element to the Browser Window with Fixed Positioning
-Not PassedPush Elements Left or Right with the float Property
-Not PassedChange the Position of Overlapping Elements with the z-index Property
-Not PassedCenter an Element Horizontally Using the margin Property
-Not PassedLearn about Complementary Colors
-Not PassedLearn about Tertiary Colors
-Not PassedAdjust the Color of Various Elements to Complementary Colors
-Not PassedAdjust the Hue of a Color
+PassedChange an Element's Relative Position
+PassedMove a Relatively Positioned Element with CSS Offsets
+PassedLock an Element to its Parent with Absolute Positioning
+PassedLock an Element to the Browser Window with Fixed Positioning
+PassedPush Elements Left or Right with the float Property
+PassedChange the Position of Overlapping Elements with the z-index Property
+PassedCenter an Element Horizontally Using the margin Property
+PassedLearn about Complementary Colors
+PassedLearn about Tertiary Colors
+PassedAdjust the Color of Various Elements to Complementary Colors
+PassedAdjust the Hue of a Color
 Not PassedAdjust the Tone of a Color
 Not PassedCreate a Gradual CSS Linear Gradient
 Not PassedUse a CSS Linear Gradient to Create a Striped Element
