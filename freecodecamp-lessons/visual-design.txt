@@ -31,7 +31,7 @@ PassedAdjust the Color of Various Elements to Complementary Colors
 PassedAdjust the Hue of a Color
 PassedAdjust the Tone of a Color
 PassedCreate a Gradual CSS Linear Gradient
-Not PassedUse a CSS Linear Gradient to Create a Striped Element
+PassedUse a CSS Linear Gradient to Create a Striped Element
 Not PassedCreate Texture by Adding a Subtle Pattern as a Background Image
 Not PassedUse the CSS Transform scale Property to Change the Size of an Element
 Not PassedUse the CSS Transform scale Property to Scale an Element on Hover
