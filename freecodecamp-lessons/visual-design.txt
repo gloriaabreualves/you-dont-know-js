@@ -2,7 +2,7 @@ Applied Visual Design
 Introduction to the Applied Visual Design Challenges
 PassedCreate Visual Balance Using the text-align Property
 PassedAdjust the Width of an Element Using the width Property
-Not PassedAdjust the Height of an Element Using the height Property
+PassedAdjust the Height of an Element Using the height Property
 PassedUse the strong Tag to Make Text Bold
 PassedUse the u Tag to Underline Text
 PassedUse the em Tag to Italicize Text
@@ -33,12 +33,12 @@ PassedAdjust the Tone of a Color
 PassedCreate a Gradual CSS Linear Gradient
 PassedUse a CSS Linear Gradient to Create a Striped Element
 PassedCreate Texture by Adding a Subtle Pattern as a Background Image
-Not PassedUse the CSS Transform scale Property to Change the Size of an Element
-Not PassedUse the CSS Transform scale Property to Scale an Element on Hover
-Not PassedUse the CSS Transform Property skewX to Skew an Element Along the X-Axis
-Not PassedUse the CSS Transform Property skewY to Skew an Element Along the Y-Axis
-Not PassedCreate a Graphic Using CSS
-Not PassedCreate a More Complex Shape Using CSS and HTML
+PassedUse the CSS Transform scale Property to Change the Size of an Element
+PassedUse the CSS Transform scale Property to Scale an Element on Hover
+PassedUse the CSS Transform Property skewX to Skew an Element Along the X-Axis
+PassedUse the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+PassedCreate a Graphic Using CSS
+PassedCreate a More Complex Shape Using CSS and HTML
 Not PassedLearn How the CSS @keyframes and animation Properties Work
 Not PassedUse CSS Animation to Change the Hover State of a Button
 Not PassedModify Fill Mode of an Animation
