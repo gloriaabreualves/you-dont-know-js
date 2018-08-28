@@ -39,16 +39,16 @@ PassedUse the CSS Transform Property skewX to Skew an Element Along the X-Axis
 PassedUse the CSS Transform Property skewY to Skew an Element Along the Y-Axis
 PassedCreate a Graphic Using CSS
 PassedCreate a More Complex Shape Using CSS and HTML
-Not PassedLearn How the CSS @keyframes and animation Properties Work
-Not PassedUse CSS Animation to Change the Hover State of a Button
-Not PassedModify Fill Mode of an Animation
-Not PassedCreate Movement Using CSS Animation
-Not PassedCreate Visual Direction by Fading an Element from Left to Right
-Not PassedAnimate Elements Continually Using an Infinite Animation Count
-Not PassedMake a CSS Heartbeat using an Infinite Animation Count
-Not PassedAnimate Elements at Variable Rates
-Not PassedAnimate Multiple Elements at Variable Rates
-Not PassedChange Animation Timing with Keywords
+PassedLearn How the CSS @keyframes and animation Properties Work
+PassedUse CSS Animation to Change the Hover State of a Button
+PassedModify Fill Mode of an Animation
+PassedCreate Movement Using CSS Animation
+PassedCreate Visual Direction by Fading an Element from Left to Right
+PassedAnimate Elements Continually Using an Infinite Animation Count
+PassedMake a CSS Heartbeat using an Infinite Animation Count
+PassedAnimate Elements at Variable Rates
+PassedAnimate Multiple Elements at Variable Rates
+PassedChange Animation Timing with Keywords
 Not PassedLearn How Bezier Curves Work
 Not PassedUse a Bezier Curve to Move a Graphic
 Not PassedMake Motion More Natural Using a Bezier Curve
