@@ -49,6 +49,6 @@ PassedMake a CSS Heartbeat using an Infinite Animation Count
 PassedAnimate Elements at Variable Rates
 PassedAnimate Multiple Elements at Variable Rates
 PassedChange Animation Timing with Keywords
-Not PassedLearn How Bezier Curves Work
-Not PassedUse a Bezier Curve to Move a Graphic
-Not PassedMake Motion More Natural Using a Bezier Curve
+PassedLearn How Bezier Curves Work
+PassedUse a Bezier Curve to Move a Graphic
+PassedMake Motion More Natural Using a Bezier Curve
