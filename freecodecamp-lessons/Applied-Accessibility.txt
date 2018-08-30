@@ -1,0 +1,24 @@
+Applied Accessibility
+Introduction to the Applied Accessibility Challenges
+PassedAdd a Text Alternative to Images for Visually Impaired Accessibility
+PassedKnow When Alt Text Should be Left Blank
+PassedUse Headings to Show Hierarchical Relationships of Content
+PassedJump Straight to the Content Using the main Element
+PassedWrap Content in the article Element
+PassedMake Screen Reader Navigation Easier with the header Landmark
+PassedMake Screen Reader Navigation Easier with the nav Landmark
+PassedMake Screen Reader Navigation Easier with the footer Landmark
+PassedImprove Accessibility of Audio Content with the audio Element
+Not PassedImprove Chart Accessibility with the figure Element
+Not PassedImprove Form Field Accessibility with the label Element
+Not PassedWrap Radio Buttons in a fieldset Element for Better Accessibility
+Not PassedAdd an Accessible Date Picker
+Not PassedStandardize Times with the HTML5 datetime Attribute
+Not PassedMake Elements Only Visible to a Screen Reader by Using Custom CSS
+Not PassedImprove Readability with High Contrast Text
+Not PassedAvoid Colorblindness Issues by Using Sufficient Contrast
+Not PassedAvoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+Not PassedGive Links Meaning by Using Descriptive Link Text
+Not PassedMake Links Navigatable with HTML Access Keys
+Not PassedUse tabindex to Add Keyboard Focus to an Element
+Not PassedUse tabindex to Specify the Order of Keyboard Focus for Several Elements
