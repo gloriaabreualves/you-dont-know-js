@@ -9,7 +9,7 @@ PassedMake Screen Reader Navigation Easier with the header Landmark
 PassedMake Screen Reader Navigation Easier with the nav Landmark
 PassedMake Screen Reader Navigation Easier with the footer Landmark
 PassedImprove Accessibility of Audio Content with the audio Element
-Not PassedImprove Chart Accessibility with the figure Element
+PassedImprove Chart Accessibility with the figure Element
 Not PassedImprove Form Field Accessibility with the label Element
 Not PassedWrap Radio Buttons in a fieldset Element for Better Accessibility
 Not PassedAdd an Accessible Date Picker
