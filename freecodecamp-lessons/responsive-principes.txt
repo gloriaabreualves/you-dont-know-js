@@ -1,0 +1,7 @@
+Responsive Web Design Principles
+
+    Introduction to the Responsive Web Design Challenges
+    PassedCreate a Media Query
+    PassedMake an Image Responsive
+    PassedUse a Retina Image for Higher Resolution Displays
+    PassedMake Typography Responsive
