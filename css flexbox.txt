@@ -1,0 +1,19 @@
+CSS Flexbox
+Introduction to the CSS Flexbox Challenges
+PassedUse display: flex to Position Two Boxes
+PassedAdd Flex Superpowers to the Tweet Embed
+Not PassedUse the flex-direction Property to Make a Row
+Not PassedApply the flex-direction Property to Create Rows in the Tweet Embed
+Not PassedUse the flex-direction Property to Make a Column
+Not PassedApply the flex-direction Property to Create a Column in the Tweet Embed
+Not PassedAlign Elements Using the justify-content Property
+Not PassedUse the justify-content Property in the Tweet Embed
+Not PassedAlign Elements Using the align-items Property
+Not PassedUse the align-items Property in the Tweet Embed
+Not PassedUse the flex-wrap Property to Wrap a Row or Column
+Not PassedUse the flex-shrink Property to Shrink Items
+Not PassedUse the flex-grow Property to Expand Items
+Not PassedUse the flex-basis Property to Set the Initial Size of an Item
+Not PassedUse the flex Shorthand Property
+Not PassedUse the order Property to Rearrange Items
+Not PassedUse the align-self Property
