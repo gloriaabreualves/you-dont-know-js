@@ -2,7 +2,7 @@ CSS Grid
 Introduction to the CSS Grid Challenges
 PassedCreate Your First CSS Grid
 PassedAdd Columns with grid-template-columns
-Not PassedAdd Rows with grid-template-rows
+PassedAdd Rows with grid-template-rows
 Not PassedUse CSS Grid units to Change the Size of Columns and Rows
 Not PassedCreate a Column Gap Using grid-column-gap
 Not PassedCreate a Row Gap using grid-row-gap
