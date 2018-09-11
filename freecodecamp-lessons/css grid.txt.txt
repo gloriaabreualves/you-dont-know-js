@@ -1,0 +1,25 @@
+CSS Grid
+
+    Introduction to the CSS Grid Challenges
+    PassedCreate Your First CSS Grid
+    PassedAdd Columns with grid-template-columns
+    PassedAdd Rows with grid-template-rows
+    PassedUse CSS Grid units to Change the Size of Columns and Rows
+    PassedCreate a Column Gap Using grid-column-gap
+    PassedCreate a Row Gap using grid-row-gap
+    PassedAdd Gaps Faster with grid-gap
+    PassedUse grid-column to Control Spacing
+    PassedUse grid-row to Control Spacing
+    PassedAlign an Item Horizontally using justify-self
+    PassedAlign an Item Vertically using align-self
+    PassedAlign All Items Horizontally using justify-items
+    PassedAlign All Items Vertically using align-items
+    PassedDivide the Grid Into an Area Template
+    Not PassedPlace Items in Grid Areas Using the grid-area Property
+    Not PassedUse grid-area Without Creating an Areas Template
+    Not PassedReduce Repetition Using the repeat Function
+    Not PassedLimit Item Size Using the minmax Function
+    Not PassedCreate Flexible Layouts Using auto-fill
+    Not PassedCreate Flexible Layouts Using auto-fit
+    Not PassedUse Media Queries to Create Responsive Layouts
+    Not PassedCreate Grids within Grids
