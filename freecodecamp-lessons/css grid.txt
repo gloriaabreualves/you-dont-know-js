@@ -3,18 +3,18 @@ Introduction to the CSS Grid Challenges
 PassedCreate Your First CSS Grid
 PassedAdd Columns with grid-template-columns
 PassedAdd Rows with grid-template-rows
-Not PassedUse CSS Grid units to Change the Size of Columns and Rows
-Not PassedCreate a Column Gap Using grid-column-gap
-Not PassedCreate a Row Gap using grid-row-gap
-Not PassedAdd Gaps Faster with grid-gap
-Not PassedUse grid-column to Control Spacing
-Not PassedUse grid-row to Control Spacing
-Not PassedAlign an Item Horizontally using justify-self
-Not PassedAlign an Item Vertically using align-self
-Not PassedAlign All Items Horizontally using justify-items
-Not PassedAlign All Items Vertically using align-items
-Not PassedDivide the Grid Into an Area Template
-Not PassedPlace Items in Grid Areas Using the grid-area Property
+PassedUse CSS Grid units to Change the Size of Columns and Rows
+PassedCreate a Column Gap Using grid-column-gap
+PassedCreate a Row Gap using grid-row-gap
+PassedAdd Gaps Faster with grid-gap
+PassedUse grid-column to Control Spacing
+PassedUse grid-row to Control Spacing
+PassedAlign an Item Horizontally using justify-self
+PassedAlign an Item Vertically using align-self
+PassedAlign All Items Horizontally using justify-items
+PassedAlign All Items Vertically using align-items
+PassedDivide the Grid Into an Area Template
+PassedPlace Items in Grid Areas Using the grid-area Property
 Not PassedUse grid-area Without Creating an Areas Template
 Not PassedReduce Repetition Using the repeat Function
 Not PassedLimit Item Size Using the minmax Function
