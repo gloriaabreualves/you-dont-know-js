@@ -17,7 +17,7 @@ PassedDivide the Grid Into an Area Template
 PassedPlace Items in Grid Areas Using the grid-area Property
 PassedUse grid-area Without Creating an Areas Template
 PassedReduce Repetition Using the repeat Function
-Not PassedLimit Item Size Using the minmax Function
+PassedLimit Item Size Using the minmax Function
 Not PassedCreate Flexible Layouts Using auto-fill
 Not PassedCreate Flexible Layouts Using auto-fit
 Not PassedUse Media Queries to Create Responsive Layouts
