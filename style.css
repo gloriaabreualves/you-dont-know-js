@@ -166,7 +166,14 @@ a:active {
    
    }  
 
+   #main { 
+     
+    font-size:0.5rem;
+  }/*Story #1*/
+  #title {
 
+    font-size:0.75rem;
+  }/*Story #2*/
 
 
   p { 
