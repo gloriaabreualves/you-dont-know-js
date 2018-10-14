@@ -16,6 +16,8 @@ margin: 0px;
 font-size: 1.25rem;
 }
 #header ul{
+  
+text-align: center;
 list-style: none; 
  
 }
@@ -142,6 +144,7 @@ a:active {
     padding-left:0.5rem;
     background: none repeat scroll 0% 0% #346CB0;
      
+text-align: center;
      }
      #header h1{ 
     margin: 0px;
@@ -181,9 +184,23 @@ a:active {
   }/*Story #2*/
   #footer {
 
+        padding-left: 0px; 
     font-size:0.5rem;
     
   }
+
+
+  #footer ul{
+    padding-left: 0px; 
+     
+  } 
+      
+
+
+
+
+
+
 
   p { 
  color:aqua;
