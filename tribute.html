@@ -1,0 +1,90 @@
+<!--     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
+    Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
+    You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
+    *User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
+    *User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
+    *User Story #3: I should see a div element with a corresponding id="img-div".
+    *User Story #4: Within the img-div element, I should see an img element with a corresponding id="image".
+    *User Story #5: Within the img-div element, I should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in img-div.
+    *User Story #6: I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.
+    *User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
+    *User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
+    *User Story #9: The img element should be centered within its parent element.
+    You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
+    Once you're done, submit the URL to your working project with all its tests passing.
+    Remember to use the Read-Search-Ask method if you get stuck.
+ -->
+ <!DOCTYPE html>
+ <head>
+ <meta charset="UTF-8"> 
+ <link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+ 
+ <title>
+   Tribute Page </title>
+  </head>
+   <body>
+<header id="header">
+ 
+  
+<h1>Responsive Web Design Projects</h1>
+
+<nav id ="nav">
+    <ul>
+    <li><a href="home.html" alt="Go to home page." title="Go to home page." class="text-dark">Home</a></li>
+    <li><a href="#" alt="Go to Tribute page." title="Go to Tribute page." class="text-dark">Tribute</a></li>
+    <li><a href="survey.html" alt="Go to survey page." title="Go to survey page." class="text-dark">Survey</a></li>
+    <li><a href="home.html" alt="Go to product page." title="Go to product page."class="text-dark">Product</a></li>
+    <li><a href="documentation.html" alt="Go to documentation page." title="Go to documentation page."class="text-dark">Documentation</a></li>
+    <li><a href="portifolio.html" alt="Go to Portifolio page." title="Go to Portifolio page."class="text-dark">Portifolio</a></li>
+    <li><a href="accessibility.html" alt="Go to Accessibility page." title="Go to Accessibility page."class="text-dark">Accessibility</a></li>
+    </ul>
+  </nav>
+ 
+</header> 
+<main id="main">
+
+<h2 id="title">A Tribute to Stephen Hawking: 1942 - 2018</h2>
+<figure id="img-div">
+<img id="image" src="http://www.cozyvibe.gr/wp-content/uploads/2018/03/eddie-1.jpg" alt="Stephen halkin taking picture to your biografy movie">
+<figcaption id="img-caption">The theory of everything. A film about the life of Stephen Hawking and Jane Wilde.</figcaption>
+
+</figure>
+
+<div id="tribute-info">
+<p>Scientist Stephen Hawking was known for his groundbreaking work with black holes and relativity, and was the author of several popular science books including 'A Brief History of Time.' </p>
+ 
+<ul>
+<li> 1914 - Born in Cresco, Iowa.</li>
+<li>2018 - Died at his home in Cambridge, England.</li>
+</ul>
+<p>In November of 2014, a film about the life of Stephen Hawking and Jane Wilde was released. The Theory of Everything stars <a href="https://www.biography.com/people/eddie-redmayne" target="_blank" id="tribute-link"> Eddie Redmayne </a>as Hawking and encompasses his early life and school days, his courtship and marriage to Wilde, the progression of his crippling disease and his scientific triumphs.</p>
+<p>Stephen Hawking (January 8, 1942 to March 14, 2018) was a British scientist, professor and author who performed groundbreaking work in physics and cosmology, and whose books helped to make science accessible to everyone. At age 21, while studying cosmology at the University of Cambridge, he was diagnosed with amyotrophic lateral sclerosis (ALS). Part of his life story was depicted in the 2014 film The Theory of Everything. </p>
+<p>Fonts from  <a href="https://www.biography.com/people/stephen-hawking-9331710" target="_blank" id="tribute-link">Biography</a>.</p>
+</div>
+
+</main> 
+<footer id="footer">
+<h2>  Glória de Abreu Alves </h2>
+<p> 
+
+ <a href="mailto:gloriapauladeabreu@gmail.com"  target="_blank" id="tribute-link" alt="Send me doubts or suggestions through this email." title="Send me doubts or suggestions through this email.">Email</a> - 
+ <a href="https://github.com/gloriaabreualves/" target="_blank" id="tribute-link" alt="Link to my Github Projects and Portifolios." title="Link to my Github Projects and Portifolios.">GitHub</a> - 
+ <a href="https://www.linkedin.com/in/gl%C3%B3ria-abreu-837641a5/" target="_blank" id="tribute-link" alt="Link to my LinkedIn profile." title="Link to my LinkedIn profile.">LinkedIn</a>.</p>
+
+<h2>Menu:</h2>
+
+<ul>
+<li><a href="home.html" alt="Go to home page." title="Go to home page.">Home</a></li>
+<li><a href="#" alt="Go to Tribute page." title="Go to Tribute page.">Tribute</a></li>
+<li><a href="survey.html" alt="Go to survey page." title="Go to survey page.">Survey</a></li>
+<li><a href="home.html" alt="Go to product page." title="Go to product page.">Product</a></li>
+<li><a href="documentation.html" alt="Go to documentation page." title="Go to documentation page.">Documentation</a></li>
+<li><a href="portifolio.html" alt="Go to Portifolio page." title="Go to Portifolio page.">Portifolio</a></li>
+<li><a href="accessibility.html" alt="Go to Accessibility page." title="Go to Accessibility page.">Accessibility</a></li>
+</ul>
+</footer>
+</body>
+
+
+</html> 
