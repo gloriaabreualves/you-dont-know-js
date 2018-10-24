@@ -59,22 +59,22 @@
 
 <form action="/url-where-you-want-to-submit-form-data" id="survey-form">
 
-<label>Name:</label> <input type="text" placeholder="Name" id="name"> 
+<label>Name:</label> <input type="text" placeholder="Name" id="name"name="txtName">
 
-<label>Email:</label> <input type="email" placeholder="Email" id="email"> 
+<label>Email:</label> <input type="email" placeholder="Email" id="email" name="txtEmail"> 
 
-   <label>Number:</label> <input type="text" placeholder="Number" id="number"> 
+   <label>Number:</label> <input type="text" placeholder="Number" id="number"name="txtNumber"> 
   
    <label>Gender:</label> 
-   <input type="radio" name="gender" value="male" checked> Male<br>
-  <input type="radio" name="gender" value="female"> Female<br>
+   <input type="radio" name="gender" value="male" name="rdGender" checked> Male<br>
+  <input type="radio" name="gender" value="female" name="rdGender"> Female<br>
    
    <label>Comments:</label> 
          
-    <textarea rows="4" cols="50">
+    <textarea rows="4" cols="50"name="txtComments">
 Write here commentaries about this survey.
 </textarea> 
-<button type="submit">Submit</button>
+<button type="submit" name="btnSubmit">Submit</button>
    </form>
 
 
